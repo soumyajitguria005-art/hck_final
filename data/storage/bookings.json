@@ -1,0 +1,4415 @@
+{
+  "BR-01": {
+    "id": "BR-01",
+    "submitted_at": "2027-01-20T09:00:00+05:30",
+    "requester": "Spectra Core Team",
+    "role": "admin",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Spectra '27 Inauguration",
+    "attendance": 450,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 4,
+        "to_period": 5
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "stage",
+      "pa_system",
+      "projector"
+    ],
+    "requested_room": "AUD",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "We need the main auditorium on Monday of fest week from 11 am to 1 pm for the Spectra inauguration. Around 450 people, stage and sound needed.",
+    "effective_category": "institute_event",
+    "status": "approved",
+    "allocated_room": "AUD",
+    "allocated_day": "MON",
+    "allocated_start_period": 4,
+    "allocated_end_period": 5,
+    "decision_reason": "Approved in AUD as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-02": {
+    "id": "BR-02",
+    "submitted_at": "2027-01-22T11:30:00+05:30",
+    "requester": "Coding Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra Code Sprint (8-hour hackathon)",
+    "attendance": 70,
+    "duration_periods": 6,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 6,
+        "to_period": 13
+      },
+      {
+        "day": "FRI",
+        "from_period": 6,
+        "to_period": 13
+      }
+    ],
+    "room_types": [
+      "lab_cs"
+    ],
+    "needs": [
+      "computers"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Coding club wants a computer lab for our hackathon during Spectra, Thursday or Friday, 6 straight hours any time between 2 pm and 10 pm, 70 participants.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "CS-LAB-1",
+    "allocated_day": "THU",
+    "allocated_start_period": 6,
+    "allocated_end_period": 11,
+    "decision_reason": "Approved in CS-LAB-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-03": {
+    "id": "BR-03",
+    "submitted_at": "2027-01-21T16:00:00+05:30",
+    "requester": "Office of the Dean of Academics",
+    "role": "faculty",
+    "department": null,
+    "requested_category": "guest_lecture",
+    "title": "Talk: Building India's Navigation Satellites",
+    "attendance": 300,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 6,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "auditorium",
+      "lecture_hall"
+    ],
+    "needs": [
+      "projector",
+      "pa_system"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Guest lecture by an ISRO scientist on Wednesday afternoon, any 2 hours between 2 and 6 pm, expecting about 300 students.",
+    "effective_category": "guest_lecture",
+    "status": "approved",
+    "allocated_room": "AUD",
+    "allocated_day": "WED",
+    "allocated_start_period": 6,
+    "allocated_end_period": 7,
+    "decision_reason": "Approved in AUD as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-04": {
+    "id": "BR-04",
+    "submitted_at": "2027-01-25T10:05:00+05:30",
+    "requester": "Robotics Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Line-follower robot workshop",
+    "attendance": 60,
+    "duration_periods": 3,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 13
+      }
+    ],
+    "room_types": [
+      "lab_elec",
+      "seminar_hall"
+    ],
+    "needs": [
+      "projector"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Robotics club workshop Tuesday evening 6 to 9, 60 people, need power points and a projector. Elec lab would be ideal.",
+    "effective_category": "club_event",
+    "status": "rejected",
+    "allocated_room": null,
+    "allocated_day": null,
+    "allocated_start_period": null,
+    "allocated_end_period": null,
+    "decision_reason": "Withdrawn by requester prior to scheduling",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-05a": {
+    "id": "BR-05a",
+    "submitted_at": "2027-01-24T20:15:00+05:30",
+    "requester": "Dance Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra dance rehearsal (MON)",
+    "attendance": 40,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "outdoor",
+      "seminar_hall"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-DANCE",
+    "raw_text": "Daily rehearsal 7 to 9 pm all of fest week, 40 dancers, OAT preferably.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "MON",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-05b": {
+    "id": "BR-05b",
+    "submitted_at": "2027-01-24T20:15:00+05:30",
+    "requester": "Dance Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra dance rehearsal (TUE)",
+    "attendance": 40,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "outdoor",
+      "seminar_hall"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-DANCE",
+    "raw_text": "Daily rehearsal 7 to 9 pm all of fest week, 40 dancers, OAT preferably.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "TUE",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-05c": {
+    "id": "BR-05c",
+    "submitted_at": "2027-01-24T20:15:00+05:30",
+    "requester": "Dance Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra dance rehearsal (WED)",
+    "attendance": 40,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "outdoor",
+      "seminar_hall"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-DANCE",
+    "raw_text": "Daily rehearsal 7 to 9 pm all of fest week, 40 dancers, OAT preferably.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "WED",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-05d": {
+    "id": "BR-05d",
+    "submitted_at": "2027-01-24T20:15:00+05:30",
+    "requester": "Dance Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra dance rehearsal (THU)",
+    "attendance": 40,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "outdoor",
+      "seminar_hall"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-DANCE",
+    "raw_text": "Daily rehearsal 7 to 9 pm all of fest week, 40 dancers, OAT preferably.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "THU",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-05e": {
+    "id": "BR-05e",
+    "submitted_at": "2027-01-24T20:15:00+05:30",
+    "requester": "Dance Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra dance rehearsal (FRI)",
+    "attendance": 40,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "outdoor",
+      "seminar_hall"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-DANCE",
+    "raw_text": "Daily rehearsal 7 to 9 pm all of fest week, 40 dancers, OAT preferably.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "SH-1",
+    "allocated_day": "FRI",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in SH-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-06": {
+    "id": "BR-06",
+    "submitted_at": "2027-01-23T14:00:00+05:30",
+    "requester": "Quiz Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra Quiz Prelims",
+    "attendance": 140,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "auditorium",
+      "lecture_hall"
+    ],
+    "needs": [
+      "projector",
+      "pa_system"
+    ],
+    "requested_room": "SH-1",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Quiz prelims on Thursday 6 to 8 pm, around 140 people, SH-1 please, need projector and mic.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "SH-1",
+    "allocated_day": "THU",
+    "allocated_start_period": 10,
+    "allocated_end_period": 11,
+    "decision_reason": "Approved in SH-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-07": {
+    "id": "BR-07",
+    "submitted_at": "2027-01-26T09:45:00+05:30",
+    "requester": "Dramatics Society",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Stage play: Andha Yug",
+    "attendance": 130,
+    "duration_periods": 3,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "auditorium"
+    ],
+    "needs": [
+      "stage",
+      "pa_system"
+    ],
+    "requested_room": "SH-1",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Dramatics needs SH-1 Thursday 6 to 9 pm for our stage play, 130 audience, stage and sound.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "AUD",
+    "allocated_day": "THU",
+    "allocated_start_period": 10,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in AUD as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-08": {
+    "id": "BR-08",
+    "submitted_at": "2027-01-24T12:00:00+05:30",
+    "requester": "ECE Department",
+    "role": "department_coordinator",
+    "department": "ECE",
+    "requested_category": "department_event",
+    "title": "ECE alumni seminar",
+    "attendance": 65,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 8,
+        "to_period": 8
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [
+      "projector"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [
+      "ECE-3"
+    ],
+    "series_id": null,
+    "raw_text": "ECE alumni talk for third years, Thursday 4 to 5 pm, attendance compulsory for ECE-3.",
+    "effective_category": "department_event",
+    "status": "alternative_offered",
+    "allocated_room": "LH-1",
+    "allocated_day": "MON",
+    "allocated_start_period": 10,
+    "allocated_end_period": 10,
+    "decision_reason": "Requested window occupied by earlier submissions; alternative offered in LH-1",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-09": {
+    "id": "BR-09",
+    "submitted_at": "2027-01-27T22:10:00+05:30",
+    "requester": "Gaming Society",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Valorant LAN finals screening",
+    "attendance": 1200,
+    "duration_periods": 3,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 13
+      }
+    ],
+    "room_types": [
+      "auditorium",
+      "outdoor"
+    ],
+    "needs": [
+      "pa_system"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Screening of the LAN finals Friday night, expecting 1200 people, big screen and sound.",
+    "effective_category": "club_event",
+    "status": "rejected",
+    "allocated_room": null,
+    "allocated_day": null,
+    "allocated_start_period": null,
+    "allocated_end_period": null,
+    "decision_reason": "No venue on campus seats 1200 (largest is 800)",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-10": {
+    "id": "BR-10",
+    "submitted_at": "2027-01-28T10:00:00+05:30",
+    "requester": "Photography Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra photo exhibition",
+    "attendance": 80,
+    "duration_periods": 9,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 1,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "seminar_hall"
+    ],
+    "needs": [
+      "accessible"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Photo exhibition all day Friday 8 am to 6 pm in a seminar hall. Must be wheelchair accessible, about 80 visitors at a time.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "SH-1",
+    "allocated_day": "FRI",
+    "allocated_start_period": 1,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in SH-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-11a": {
+    "id": "BR-11a",
+    "submitted_at": "2027-01-20T09:30:00+05:30",
+    "requester": "Spectra Core Team",
+    "role": "admin",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Robo-Wars arena (day 1)",
+    "attendance": 600,
+    "duration_periods": 4,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 6,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "outdoor"
+    ],
+    "needs": [
+      "pa_system"
+    ],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-ROBOWARS",
+    "raw_text": "Robo-Wars on the OAT Thursday and Friday, 2 to 6 pm both days, 600 spectators.",
+    "effective_category": "institute_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "THU",
+    "allocated_start_period": 6,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-11b": {
+    "id": "BR-11b",
+    "submitted_at": "2027-01-20T09:30:00+05:30",
+    "requester": "Spectra Core Team",
+    "role": "admin",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Robo-Wars arena (day 2)",
+    "attendance": 600,
+    "duration_periods": 4,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 6,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "outdoor"
+    ],
+    "needs": [
+      "pa_system"
+    ],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": "SER-ROBOWARS",
+    "raw_text": "Robo-Wars on the OAT Thursday and Friday, 2 to 6 pm both days, 600 spectators.",
+    "effective_category": "institute_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "FRI",
+    "allocated_start_period": 6,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-12": {
+    "id": "BR-12",
+    "submitted_at": "2027-01-29T13:20:00+05:30",
+    "requester": "E-Cell",
+    "role": "club",
+    "department": null,
+    "requested_category": "guest_lecture",
+    "title": "Founder talk",
+    "attendance": 200,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 9,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "lecture_hall",
+      "auditorium"
+    ],
+    "needs": [
+      "projector",
+      "pa_system"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "E-Cell is hosting a startup founder, it's a guest lecture so please give it priority. Tuesday 5 pm, 200 people.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "AUD",
+    "allocated_day": "TUE",
+    "allocated_start_period": 9,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in AUD as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-13": {
+    "id": "BR-13",
+    "submitted_at": "2027-01-25T17:00:00+05:30",
+    "requester": "Training and Placement Cell",
+    "role": "department_coordinator",
+    "department": "CSE",
+    "requested_category": "department_event",
+    "title": "Pre-placement talk",
+    "attendance": 75,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "lecture_hall",
+      "classroom",
+      "seminar_hall"
+    ],
+    "needs": [
+      "projector"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [
+      "CSE-3"
+    ],
+    "series_id": null,
+    "raw_text": "Pre-placement talk for CSE third years, Wednesday 6 to 8 pm, compulsory for CSE-3.",
+    "effective_category": "department_event",
+    "status": "approved",
+    "allocated_room": "LH-1",
+    "allocated_day": "WED",
+    "allocated_start_period": 10,
+    "allocated_end_period": 11,
+    "decision_reason": "Approved in LH-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-14": {
+    "id": "BR-14",
+    "submitted_at": "2027-01-30T19:00:00+05:30",
+    "requester": "Literary Society",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Spectra Open Mic",
+    "attendance": 90,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 11,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "lecture_hall",
+      "seminar_hall"
+    ],
+    "needs": [
+      "pa_system"
+    ],
+    "requested_room": "LHC-5",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Open mic Wednesday 7 to 9 pm in LHC-5 (the one with good acoustics), around 90 people, need a mic.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "LH-2",
+    "allocated_day": "WED",
+    "allocated_start_period": 11,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in LH-2 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-15": {
+    "id": "BR-15",
+    "submitted_at": "2027-01-31T11:00:00+05:30",
+    "requester": "Music Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Spectra Jam Night",
+    "attendance": 300,
+    "duration_periods": 3,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium",
+      "outdoor"
+    ],
+    "needs": [
+      "stage",
+      "pa_system"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Jam night Friday 6 to 9 pm, 300 people. This is an official Spectra event so mark it institute level.",
+    "effective_category": "club_event",
+    "status": "approved",
+    "allocated_room": "AUD",
+    "allocated_day": "FRI",
+    "allocated_start_period": 10,
+    "allocated_end_period": 12,
+    "decision_reason": "Approved in AUD as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-16": {
+    "id": "BR-16",
+    "submitted_at": "2027-02-02T10:00:00+05:30",
+    "requester": "Spectra Core Team",
+    "role": "admin",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Spectra Pro-Night",
+    "attendance": 750,
+    "duration_periods": 4,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 13
+      }
+    ],
+    "room_types": [
+      "outdoor"
+    ],
+    "needs": [
+      "stage",
+      "pa_system"
+    ],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Pro-night concert on the OAT Friday 6 to 10 pm, 750 people.",
+    "effective_category": "institute_event",
+    "status": "approved",
+    "allocated_room": "OAT",
+    "allocated_day": "FRI",
+    "allocated_start_period": 10,
+    "allocated_end_period": 13,
+    "decision_reason": "Approved in OAT as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-17": {
+    "id": "BR-17",
+    "submitted_at": "2027-02-01T21:30:00+05:30",
+    "requester": "Astronomy Club",
+    "role": "club",
+    "department": null,
+    "requested_category": "club_event",
+    "title": "Night sky watch",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 13,
+        "to_period": 14
+      }
+    ],
+    "room_types": [
+      "outdoor"
+    ],
+    "needs": [],
+    "requested_room": "OAT",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Night sky watch on the OAT, Wednesday 10 pm to midnight, 50 people.",
+    "effective_category": "club_event",
+    "status": "alternative_offered",
+    "allocated_room": "OAT",
+    "allocated_day": "MON",
+    "allocated_start_period": 1,
+    "allocated_end_period": 2,
+    "decision_reason": "Requested window occupied by earlier submissions; alternative offered in OAT",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-18": {
+    "id": "BR-18",
+    "submitted_at": "2027-01-26T15:00:00+05:30",
+    "requester": "Civil Engineering Department",
+    "role": "department_coordinator",
+    "department": "CE",
+    "requested_category": "department_event",
+    "title": "Bridge-building contest",
+    "attendance": 45,
+    "duration_periods": 3,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 6,
+        "to_period": 9
+      },
+      {
+        "day": "THU",
+        "from_period": 6,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "lab_civil",
+      "workshop"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [
+      "CE-3"
+    ],
+    "series_id": null,
+    "raw_text": "Bridge building contest for CE third years, 3 hours on Tuesday or Thursday afternoon, compulsory for CE-3.",
+    "effective_category": "department_event",
+    "status": "approved",
+    "allocated_room": "CIVIL-LAB",
+    "allocated_day": "TUE",
+    "allocated_start_period": 7,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in CIVIL-LAB as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-19": {
+    "id": "BR-19",
+    "submitted_at": "2027-01-27T09:00:00+05:30",
+    "requester": "Dr. Amit Behera (F12)",
+    "role": "faculty",
+    "department": "ECE",
+    "requested_category": "guest_lecture",
+    "title": "Industry talk: chip design careers",
+    "attendance": 65,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 9,
+        "to_period": 9
+      },
+      {
+        "day": "TUE",
+        "from_period": 9,
+        "to_period": 9
+      },
+      {
+        "day": "WED",
+        "from_period": 9,
+        "to_period": 9
+      }
+    ],
+    "room_types": [
+      "classroom",
+      "lecture_hall",
+      "seminar_hall"
+    ],
+    "needs": [
+      "projector"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [
+      "ECE-3"
+    ],
+    "series_id": null,
+    "raw_text": "Industry speaker for ECE-3, any of Mon/Tue/Wed at 5 pm, one hour, compulsory for ECE-3.",
+    "effective_category": "guest_lecture",
+    "status": "approved",
+    "allocated_room": "LH-1",
+    "allocated_day": "MON",
+    "allocated_start_period": 9,
+    "allocated_end_period": 9,
+    "decision_reason": "Approved in LH-1 as requested",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-20": {
+    "id": "BR-20",
+    "submitted_at": "2027-01-20T10:00:00+05:30",
+    "requester": "Spectra Core Team",
+    "role": "admin",
+    "department": null,
+    "requested_category": "institute_event",
+    "title": "Spectra closing ceremony",
+    "attendance": 480,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 4,
+        "to_period": 5
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "stage",
+      "pa_system",
+      "projector"
+    ],
+    "requested_room": "AUD",
+    "mandatory_for_groups": [],
+    "series_id": null,
+    "raw_text": "Closing ceremony Friday 11 am to 1 pm in the auditorium, about 480 people.",
+    "effective_category": "institute_event",
+    "status": "alternative_offered",
+    "allocated_room": "AUD",
+    "allocated_day": "MON",
+    "allocated_start_period": 10,
+    "allocated_end_period": 11,
+    "decision_reason": "Requested window occupied by earlier submissions; alternative offered in AUD",
+    "created_by": "system",
+    "decided_by": "system",
+    "decided_at": "2026-10-31T07:34:23.971Z"
+  },
+  "BR-4816": {
+    "id": "BR-4816",
+    "submitted_at": "2026-10-31T07:34:24.816Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-5518": {
+    "id": "BR-5518",
+    "submitted_at": "2026-10-31T07:34:25.518Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1100": {
+    "id": "BR-1100",
+    "submitted_at": "2026-10-31T07:35:11.100Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-1843": {
+    "id": "BR-1843",
+    "submitted_at": "2026-10-31T07:35:11.843Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7283": {
+    "id": "BR-7283",
+    "submitted_at": "2026-10-31T07:36:37.283Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-7953": {
+    "id": "BR-7953",
+    "submitted_at": "2026-10-31T07:36:37.953Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2155": {
+    "id": "BR-2155",
+    "submitted_at": "2026-10-31T08:03:52.155Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-2204": {
+    "id": "BR-2204",
+    "submitted_at": "2026-10-31T08:03:52.204Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-5554": {
+    "id": "BR-5554",
+    "submitted_at": "2026-10-31T08:04:15.554Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-6209": {
+    "id": "BR-6209",
+    "submitted_at": "2026-10-31T08:04:16.209Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-4605": {
+    "id": "BR-4605",
+    "submitted_at": "2026-10-31T08:14:24.605Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-4657": {
+    "id": "BR-4657",
+    "submitted_at": "2026-10-31T08:14:24.657Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7475": {
+    "id": "BR-7475",
+    "submitted_at": "2026-10-31T08:14:37.475Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-8176": {
+    "id": "BR-8176",
+    "submitted_at": "2026-10-31T08:14:38.176Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7198": {
+    "id": "BR-7198",
+    "submitted_at": "2026-10-31T08:15:47.198Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-7212": {
+    "id": "BR-7212",
+    "submitted_at": "2026-10-31T08:15:47.212Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7279": {
+    "id": "BR-7279",
+    "submitted_at": "2026-10-31T08:15:47.279Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7285": {
+    "id": "BR-7285",
+    "submitted_at": "2026-10-31T08:15:47.285Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7288": {
+    "id": "BR-7288",
+    "submitted_at": "2026-10-31T08:15:47.288Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7291": {
+    "id": "BR-7291",
+    "submitted_at": "2026-10-31T08:15:47.291Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7293": {
+    "id": "BR-7293",
+    "submitted_at": "2026-10-31T08:15:47.293Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7296": {
+    "id": "BR-7296",
+    "submitted_at": "2026-10-31T08:15:47.296Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7298": {
+    "id": "BR-7298",
+    "submitted_at": "2026-10-31T08:15:47.298Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7301": {
+    "id": "BR-7301",
+    "submitted_at": "2026-10-31T08:15:47.301Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7304": {
+    "id": "BR-7304",
+    "submitted_at": "2026-10-31T08:15:47.304Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7306": {
+    "id": "BR-7306",
+    "submitted_at": "2026-10-31T08:15:47.306Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1898": {
+    "id": "BR-1898",
+    "submitted_at": "2026-10-31T08:16:31.898Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-1904": {
+    "id": "BR-1904",
+    "submitted_at": "2026-10-31T08:16:31.904Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1961": {
+    "id": "BR-1961",
+    "submitted_at": "2026-10-31T08:16:31.961Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1966": {
+    "id": "BR-1966",
+    "submitted_at": "2026-10-31T08:16:31.966Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1970": {
+    "id": "BR-1970",
+    "submitted_at": "2026-10-31T08:16:31.970Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1974": {
+    "id": "BR-1974",
+    "submitted_at": "2026-10-31T08:16:31.974Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1977": {
+    "id": "BR-1977",
+    "submitted_at": "2026-10-31T08:16:31.977Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1980": {
+    "id": "BR-1980",
+    "submitted_at": "2026-10-31T08:16:31.980Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1983": {
+    "id": "BR-1983",
+    "submitted_at": "2026-10-31T08:16:31.983Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1986": {
+    "id": "BR-1986",
+    "submitted_at": "2026-10-31T08:16:31.986Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1991": {
+    "id": "BR-1991",
+    "submitted_at": "2026-10-31T08:16:31.991Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1994": {
+    "id": "BR-1994",
+    "submitted_at": "2026-10-31T08:16:31.994Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3640": {
+    "id": "BR-3640",
+    "submitted_at": "2026-10-31T08:28:43.640Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-3647": {
+    "id": "BR-3647",
+    "submitted_at": "2026-10-31T08:28:43.647Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3708": {
+    "id": "BR-3708",
+    "submitted_at": "2026-10-31T08:28:43.708Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3714": {
+    "id": "BR-3714",
+    "submitted_at": "2026-10-31T08:28:43.714Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3718": {
+    "id": "BR-3718",
+    "submitted_at": "2026-10-31T08:28:43.718Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3721": {
+    "id": "BR-3721",
+    "submitted_at": "2026-10-31T08:28:43.721Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3725": {
+    "id": "BR-3725",
+    "submitted_at": "2026-10-31T08:28:43.725Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3730": {
+    "id": "BR-3730",
+    "submitted_at": "2026-10-31T08:28:43.730Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3733": {
+    "id": "BR-3733",
+    "submitted_at": "2026-10-31T08:28:43.733Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3737": {
+    "id": "BR-3737",
+    "submitted_at": "2026-10-31T08:28:43.737Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3740": {
+    "id": "BR-3740",
+    "submitted_at": "2026-10-31T08:28:43.740Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3744": {
+    "id": "BR-3744",
+    "submitted_at": "2026-10-31T08:28:43.744Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2782": {
+    "id": "BR-2782",
+    "submitted_at": "2026-10-31T08:39:42.782Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-2790": {
+    "id": "BR-2790",
+    "submitted_at": "2026-10-31T08:39:42.790Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2865": {
+    "id": "BR-2865",
+    "submitted_at": "2026-10-31T08:39:42.865Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2870": {
+    "id": "BR-2870",
+    "submitted_at": "2026-10-31T08:39:42.870Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2873": {
+    "id": "BR-2873",
+    "submitted_at": "2026-10-31T08:39:42.873Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2877": {
+    "id": "BR-2877",
+    "submitted_at": "2026-10-31T08:39:42.877Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2880": {
+    "id": "BR-2880",
+    "submitted_at": "2026-10-31T08:39:42.880Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2884": {
+    "id": "BR-2884",
+    "submitted_at": "2026-10-31T08:39:42.884Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2887": {
+    "id": "BR-2887",
+    "submitted_at": "2026-10-31T08:39:42.887Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2891": {
+    "id": "BR-2891",
+    "submitted_at": "2026-10-31T08:39:42.891Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2895": {
+    "id": "BR-2895",
+    "submitted_at": "2026-10-31T08:39:42.895Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-2899": {
+    "id": "BR-2899",
+    "submitted_at": "2026-10-31T08:39:42.899Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-4134": {
+    "id": "BR-4134",
+    "submitted_at": "2026-10-31T08:39:54.134Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-4212": {
+    "id": "BR-4212",
+    "submitted_at": "2026-10-31T08:39:54.212Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-5920": {
+    "id": "BR-5920",
+    "submitted_at": "2026-10-31T08:40:05.920Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-6840": {
+    "id": "BR-6840",
+    "submitted_at": "2026-10-31T08:40:06.840Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7889": {
+    "id": "BR-7889",
+    "submitted_at": "2026-10-31T08:46:07.889Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-7992": {
+    "id": "BR-7992",
+    "submitted_at": "2026-10-31T08:46:07.992Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-7024": {
+    "id": "BR-7024",
+    "submitted_at": "2026-10-31T08:46:27.024Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-7649": {
+    "id": "BR-7649",
+    "submitted_at": "2026-10-31T08:46:27.649Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1668": {
+    "id": "BR-1668",
+    "submitted_at": "2026-10-31T08:46:31.668Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-1698": {
+    "id": "BR-1698",
+    "submitted_at": "2026-10-31T08:46:31.698Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1816": {
+    "id": "BR-1816",
+    "submitted_at": "2026-10-31T08:46:31.816Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1839": {
+    "id": "BR-1839",
+    "submitted_at": "2026-10-31T08:46:31.839Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1846": {
+    "id": "BR-1846",
+    "submitted_at": "2026-10-31T08:46:31.846Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1850": {
+    "id": "BR-1850",
+    "submitted_at": "2026-10-31T08:46:31.850Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1858": {
+    "id": "BR-1858",
+    "submitted_at": "2026-10-31T08:46:31.858Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1869": {
+    "id": "BR-1869",
+    "submitted_at": "2026-10-31T08:46:31.869Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1873": {
+    "id": "BR-1873",
+    "submitted_at": "2026-10-31T08:46:31.873Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1882": {
+    "id": "BR-1882",
+    "submitted_at": "2026-10-31T08:46:31.882Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1895": {
+    "id": "BR-1895",
+    "submitted_at": "2026-10-31T08:46:31.895Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-1913": {
+    "id": "BR-1913",
+    "submitted_at": "2026-10-31T08:46:31.913Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-6797": {
+    "id": "BR-6797",
+    "submitted_at": "2026-10-31T09:05:56.797Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-6832": {
+    "id": "BR-6832",
+    "submitted_at": "2026-10-31T09:05:56.832Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-9577": {
+    "id": "BR-9577",
+    "submitted_at": "2026-10-31T09:06:39.577Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-9634": {
+    "id": "BR-9634",
+    "submitted_at": "2026-10-31T09:06:39.634Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8767": {
+    "id": "BR-8767",
+    "submitted_at": "2026-10-31T09:06:48.767Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-8778": {
+    "id": "BR-8778",
+    "submitted_at": "2026-10-31T09:06:48.778Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8865": {
+    "id": "BR-8865",
+    "submitted_at": "2026-10-31T09:06:48.865Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8872": {
+    "id": "BR-8872",
+    "submitted_at": "2026-10-31T09:06:48.872Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8876": {
+    "id": "BR-8876",
+    "submitted_at": "2026-10-31T09:06:48.876Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8885": {
+    "id": "BR-8885",
+    "submitted_at": "2026-10-31T09:06:48.885Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8889": {
+    "id": "BR-8889",
+    "submitted_at": "2026-10-31T09:06:48.889Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8895": {
+    "id": "BR-8895",
+    "submitted_at": "2026-10-31T09:06:48.895Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8903": {
+    "id": "BR-8903",
+    "submitted_at": "2026-10-31T09:06:48.903Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8912": {
+    "id": "BR-8912",
+    "submitted_at": "2026-10-31T09:06:48.912Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8920": {
+    "id": "BR-8920",
+    "submitted_at": "2026-10-31T09:06:48.920Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8927": {
+    "id": "BR-8927",
+    "submitted_at": "2026-10-31T09:06:48.927Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8543": {
+    "id": "BR-8543",
+    "submitted_at": "2026-10-31T09:06:58.543Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-9120": {
+    "id": "BR-9120",
+    "submitted_at": "2026-10-31T09:06:59.120Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-3789": {
+    "id": "BR-3789",
+    "submitted_at": "2026-10-31T09:10:03.789Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-4510": {
+    "id": "BR-4510",
+    "submitted_at": "2026-10-31T09:10:04.510Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-6544": {
+    "id": "BR-6544",
+    "submitted_at": "2026-10-31T09:10:16.544Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Test",
+    "attendance": 50,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-6621": {
+    "id": "BR-6621",
+    "submitted_at": "2026-10-31T09:10:16.621Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Review Meeting",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0050": {
+    "id": "BR-0050",
+    "submitted_at": "2026-10-31T09:10:30.050Z",
+    "requester": "Aarav Patel (Student)",
+    "role": "club",
+    "requested_category": "institute_event",
+    "effective_category": "club_event",
+    "title": "Privilege Escalation Attempt",
+    "attendance": 100,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "MON",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-student-cse3"
+  },
+  "BR-0063": {
+    "id": "BR-0063",
+    "submitted_at": "2026-10-31T09:10:30.063Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Administrative Assembly",
+    "attendance": 30,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "TUE",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0157": {
+    "id": "BR-0157",
+    "submitted_at": "2026-10-31T09:10:30.157Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 0",
+    "attendance": 20,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0168": {
+    "id": "BR-0168",
+    "submitted_at": "2026-10-31T09:10:30.168Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 1",
+    "attendance": 21,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0182": {
+    "id": "BR-0182",
+    "submitted_at": "2026-10-31T09:10:30.182Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 2",
+    "attendance": 22,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0187": {
+    "id": "BR-0187",
+    "submitted_at": "2026-10-31T09:10:30.187Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 3",
+    "attendance": 23,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0192": {
+    "id": "BR-0192",
+    "submitted_at": "2026-10-31T09:10:30.192Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 5",
+    "attendance": 25,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0196": {
+    "id": "BR-0196",
+    "submitted_at": "2026-10-31T09:10:30.196Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 4",
+    "attendance": 24,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0201": {
+    "id": "BR-0201",
+    "submitted_at": "2026-10-31T09:10:30.201Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 6",
+    "attendance": 26,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0208": {
+    "id": "BR-0208",
+    "submitted_at": "2026-10-31T09:10:30.208Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 7",
+    "attendance": 27,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0215": {
+    "id": "BR-0215",
+    "submitted_at": "2026-10-31T09:10:30.215Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 8",
+    "attendance": 28,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-0220": {
+    "id": "BR-0220",
+    "submitted_at": "2026-10-31T09:10:30.220Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Concurrent Booking 9",
+    "attendance": 29,
+    "duration_periods": 1,
+    "windows": [
+      {
+        "day": "WED",
+        "from_period": 10,
+        "to_period": 11
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "lecture_hall",
+      "classroom"
+    ],
+    "needs": [],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  },
+  "BR-8513": {
+    "id": "BR-8513",
+    "submitted_at": "2026-10-31T09:11:48.513Z",
+    "requester": "Kabir Varma (Dramatics Society)",
+    "role": "club",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Shakespeare Night Practice",
+    "attendance": 35,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "THU",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "seminar_hall",
+      "classroom"
+    ],
+    "needs": [
+      "stage"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-club-drama"
+  },
+  "BR-9295": {
+    "id": "BR-9295",
+    "submitted_at": "2026-10-31T09:11:49.295Z",
+    "requester": "Dr. S. K. Nayak (Dean Academics)",
+    "role": "admin",
+    "requested_category": "club_event",
+    "effective_category": "club_event",
+    "title": "Dean Academics Special Assembly",
+    "attendance": 250,
+    "duration_periods": 2,
+    "windows": [
+      {
+        "day": "FRI",
+        "from_period": 10,
+        "to_period": 12
+      }
+    ],
+    "room_types": [
+      "auditorium"
+    ],
+    "needs": [
+      "mic"
+    ],
+    "requested_room": null,
+    "mandatory_for_groups": [],
+    "raw_text": "",
+    "status": "pending",
+    "created_by": "usr-admin"
+  }
+}

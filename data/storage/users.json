@@ -1,0 +1,551 @@
+{
+  "usr-admin": {
+    "id": "usr-admin",
+    "username": "admin.nayak",
+    "display_name": "Dr. S. K. Nayak (Dean Academics)",
+    "email": "dean.academics@cit.ac.in",
+    "role": "admin",
+    "status": "active",
+    "department": "Administration",
+    "auth_tokens": [
+      "admin-token-secret-01",
+      "usr-admin",
+      "admin"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-coord-cse": {
+    "id": "usr-coord-cse",
+    "username": "coord.cse",
+    "display_name": "Prof. Ananya Sen (CSE Coordinator)",
+    "email": "coord.cse@cit.ac.in",
+    "role": "department_coordinator",
+    "status": "active",
+    "department": "CSE",
+    "auth_tokens": [
+      "coord-cse-token-01",
+      "usr-coord-cse",
+      "department_coordinator"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-coord-ece": {
+    "id": "usr-coord-ece",
+    "username": "coord.ece",
+    "display_name": "Prof. Rajesh Sharma (ECE Coordinator)",
+    "email": "coord.ece@cit.ac.in",
+    "role": "department_coordinator",
+    "status": "active",
+    "department": "ECE",
+    "auth_tokens": [
+      "coord-ece-token-01",
+      "usr-coord-ece"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-faculty-f19": {
+    "id": "usr-faculty-f19",
+    "username": "faculty.f19",
+    "display_name": "Prof. S. Ramanujan (Faculty)",
+    "email": "ramanujan.math@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "Mathematics",
+    "faculty_id": "F19",
+    "auth_tokens": [
+      "faculty-f19-token-01",
+      "usr-faculty-f19",
+      "faculty"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-faculty-f01": {
+    "id": "usr-faculty-f01",
+    "username": "faculty.f01",
+    "display_name": "Prof. Alan Turing (CSE Faculty)",
+    "email": "turing.cse@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "faculty-f01-token-01",
+      "usr-faculty-f01"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-club-drama": {
+    "id": "usr-club-drama",
+    "username": "club.drama",
+    "display_name": "Kabir Varma (Dramatics Society)",
+    "email": "drama.club@cit.ac.in",
+    "role": "club",
+    "status": "active",
+    "club_name": "Dramatics Society",
+    "auth_tokens": [
+      "club-drama-token-01",
+      "usr-club-drama",
+      "club"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-club-robotics": {
+    "id": "usr-club-robotics",
+    "username": "club.robotics",
+    "display_name": "Aditi Roy (Robotics Club)",
+    "email": "robotics.club@cit.ac.in",
+    "role": "club",
+    "status": "active",
+    "club_name": "Robotics Club",
+    "auth_tokens": [
+      "club-robotics-token-01",
+      "usr-club-robotics"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-student-cse3": {
+    "id": "usr-student-cse3",
+    "username": "student.aarav",
+    "display_name": "Aarav Patel (Student)",
+    "email": "aarav.cse3@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "student-cse3-token-01",
+      "usr-student-cse3",
+      "student"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-student-y1a": {
+    "id": "usr-student-y1a",
+    "username": "student.priya",
+    "display_name": "Priya Sharma (Year 1 Student)",
+    "email": "priya.y1a@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "Y1-A",
+    "auth_tokens": [
+      "student-y1a-token-01",
+      "usr-student-y1a"
+    ],
+    "created_at": "2026-10-31T08:03:52.015Z",
+    "updated_at": "2026-10-31T08:03:52.015Z"
+  },
+  "usr-test-persistent-1793433832213": {
+    "id": "usr-test-persistent-1793433832213",
+    "username": "testuser.1793433832214",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793433832214@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793433832213-1793433832215"
+    ],
+    "created_at": "2026-10-31T08:03:52.217Z",
+    "updated_at": "2026-10-31T08:03:52.217Z"
+  },
+  "usr-test-persistent-1793434464664": {
+    "id": "usr-test-persistent-1793434464664",
+    "username": "testuser.1793434464665",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793434464665@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793434464664-1793434464666"
+    ],
+    "created_at": "2026-10-31T08:14:24.667Z",
+    "updated_at": "2026-10-31T08:14:24.667Z"
+  },
+  "usr-temp-suspended-1793434547204": {
+    "id": "usr-temp-suspended-1793434547204",
+    "username": "suspended.1793434547204",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793434547204@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793434547204"
+    ],
+    "created_at": "2026-10-31T08:15:47.208Z",
+    "updated_at": "2026-10-31T08:15:47.208Z"
+  },
+  "usr-persist-check-1793434547220": {
+    "id": "usr-persist-check-1793434547220",
+    "username": "persist.1793434547220",
+    "display_name": "Durable User Record",
+    "email": "persist.1793434547220@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793434547220-1793434547222"
+    ],
+    "created_at": "2026-10-31T08:15:47.223Z",
+    "updated_at": "2026-10-31T08:15:47.223Z"
+  },
+  "usr-status-change-1793434547227": {
+    "id": "usr-status-change-1793434547227",
+    "username": "status.1793434547227",
+    "display_name": "Status Test User",
+    "email": "status.1793434547227@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793434547227"
+    ],
+    "created_at": "2026-10-31T08:15:47.229Z",
+    "updated_at": "2026-10-31T08:15:47.234Z"
+  },
+  "usr-temp-suspended-1793434591900": {
+    "id": "usr-temp-suspended-1793434591900",
+    "username": "suspended.1793434591900",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793434591900@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793434591900"
+    ],
+    "created_at": "2026-10-31T08:16:31.901Z",
+    "updated_at": "2026-10-31T08:16:31.901Z"
+  },
+  "usr-persist-check-1793434591914": {
+    "id": "usr-persist-check-1793434591914",
+    "username": "persist.1793434591914",
+    "display_name": "Durable User Record",
+    "email": "persist.1793434591914@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793434591914-1793434591915"
+    ],
+    "created_at": "2026-10-31T08:16:31.917Z",
+    "updated_at": "2026-10-31T08:16:31.917Z"
+  },
+  "usr-status-change-1793434591919": {
+    "id": "usr-status-change-1793434591919",
+    "username": "status.1793434591919",
+    "display_name": "Status Test User",
+    "email": "status.1793434591919@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793434591919"
+    ],
+    "created_at": "2026-10-31T08:16:31.920Z",
+    "updated_at": "2026-10-31T08:16:31.925Z"
+  },
+  "usr-temp-suspended-1793435323642": {
+    "id": "usr-temp-suspended-1793435323642",
+    "username": "suspended.1793435323642",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793435323642@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793435323642"
+    ],
+    "created_at": "2026-10-31T08:28:43.644Z",
+    "updated_at": "2026-10-31T08:28:43.644Z"
+  },
+  "usr-persist-check-1793435323658": {
+    "id": "usr-persist-check-1793435323658",
+    "username": "persist.1793435323658",
+    "display_name": "Durable User Record",
+    "email": "persist.1793435323658@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793435323658-1793435323660"
+    ],
+    "created_at": "2026-10-31T08:28:43.661Z",
+    "updated_at": "2026-10-31T08:28:43.661Z"
+  },
+  "usr-status-change-1793435323663": {
+    "id": "usr-status-change-1793435323663",
+    "username": "status.1793435323663",
+    "display_name": "Status Test User",
+    "email": "status.1793435323663@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793435323663"
+    ],
+    "created_at": "2026-10-31T08:28:43.664Z",
+    "updated_at": "2026-10-31T08:28:43.669Z"
+  },
+  "usr-temp-suspended-1793435982785": {
+    "id": "usr-temp-suspended-1793435982785",
+    "username": "suspended.1793435982785",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793435982785@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793435982785"
+    ],
+    "created_at": "2026-10-31T08:39:42.787Z",
+    "updated_at": "2026-10-31T08:39:42.787Z"
+  },
+  "usr-persist-check-1793435982803": {
+    "id": "usr-persist-check-1793435982803",
+    "username": "persist.1793435982803",
+    "display_name": "Durable User Record",
+    "email": "persist.1793435982803@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793435982803-1793435982805"
+    ],
+    "created_at": "2026-10-31T08:39:42.808Z",
+    "updated_at": "2026-10-31T08:39:42.808Z"
+  },
+  "usr-status-change-1793435982812": {
+    "id": "usr-status-change-1793435982812",
+    "username": "status.1793435982812",
+    "display_name": "Status Test User",
+    "email": "status.1793435982812@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793435982812"
+    ],
+    "created_at": "2026-10-31T08:39:42.814Z",
+    "updated_at": "2026-10-31T08:39:42.823Z"
+  },
+  "usr-test-persistent-1793435994218": {
+    "id": "usr-test-persistent-1793435994218",
+    "username": "testuser.1793435994218",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793435994218@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793435994218-1793435994220"
+    ],
+    "created_at": "2026-10-31T08:39:54.225Z",
+    "updated_at": "2026-10-31T08:39:54.225Z"
+  },
+  "usr-test-persistent-1793436368000": {
+    "id": "usr-test-persistent-1793436368000",
+    "username": "testuser.1793436368000",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793436368000@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793436368000-1793436368006"
+    ],
+    "created_at": "2026-10-31T08:46:08.011Z",
+    "updated_at": "2026-10-31T08:46:08.011Z"
+  },
+  "usr-temp-suspended-1793436391680": {
+    "id": "usr-temp-suspended-1793436391680",
+    "username": "suspended.1793436391680",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793436391680@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793436391680"
+    ],
+    "created_at": "2026-10-31T08:46:31.688Z",
+    "updated_at": "2026-10-31T08:46:31.688Z"
+  },
+  "usr-persist-check-1793436391718": {
+    "id": "usr-persist-check-1793436391718",
+    "username": "persist.1793436391718",
+    "display_name": "Durable User Record",
+    "email": "persist.1793436391718@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793436391718-1793436391720"
+    ],
+    "created_at": "2026-10-31T08:46:31.721Z",
+    "updated_at": "2026-10-31T08:46:31.721Z"
+  },
+  "usr-status-change-1793436391723": {
+    "id": "usr-status-change-1793436391723",
+    "username": "status.1793436391723",
+    "display_name": "Status Test User",
+    "email": "status.1793436391723@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793436391723"
+    ],
+    "created_at": "2026-10-31T08:46:31.724Z",
+    "updated_at": "2026-10-31T08:46:31.737Z"
+  },
+  "usr-test-persistent-1793437599643": {
+    "id": "usr-test-persistent-1793437599643",
+    "username": "testuser.1793437599643",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793437599643@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793437599643-1793437599645"
+    ],
+    "created_at": "2026-10-31T09:06:39.648Z",
+    "updated_at": "2026-10-31T09:06:39.648Z"
+  },
+  "usr-temp-suspended-1793437608773": {
+    "id": "usr-temp-suspended-1793437608773",
+    "username": "suspended.1793437608773",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793437608773@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793437608773"
+    ],
+    "created_at": "2026-10-31T09:06:48.775Z",
+    "updated_at": "2026-10-31T09:06:48.775Z"
+  },
+  "usr-persist-check-1793437608790": {
+    "id": "usr-persist-check-1793437608790",
+    "username": "persist.1793437608791",
+    "display_name": "Durable User Record",
+    "email": "persist.1793437608791@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793437608790-1793437608794"
+    ],
+    "created_at": "2026-10-31T09:06:48.797Z",
+    "updated_at": "2026-10-31T09:06:48.797Z"
+  },
+  "usr-status-change-1793437608800": {
+    "id": "usr-status-change-1793437608800",
+    "username": "status.1793437608800",
+    "display_name": "Status Test User",
+    "email": "status.1793437608800@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793437608800"
+    ],
+    "created_at": "2026-10-31T09:06:48.802Z",
+    "updated_at": "2026-10-31T09:06:48.810Z"
+  },
+  "usr-test-persistent-1793437816627": {
+    "id": "usr-test-persistent-1793437816627",
+    "username": "testuser.1793437816627",
+    "display_name": "Test Persistent Engineer",
+    "email": "test.1793437816627@cit.ac.in",
+    "role": "faculty",
+    "status": "active",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "auth_tokens": [
+      "token-usr-test-persistent-1793437816627-1793437816629"
+    ],
+    "created_at": "2026-10-31T09:10:16.631Z",
+    "updated_at": "2026-10-31T09:10:16.631Z"
+  },
+  "usr-temp-suspended-1793437830057": {
+    "id": "usr-temp-suspended-1793437830057",
+    "username": "suspended.1793437830057",
+    "display_name": "Suspended Test User",
+    "email": "suspended.1793437830057@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-temp-suspended-1793437830057"
+    ],
+    "created_at": "2026-10-31T09:10:30.059Z",
+    "updated_at": "2026-10-31T09:10:30.059Z"
+  },
+  "usr-persist-check-1793437830076": {
+    "id": "usr-persist-check-1793437830076",
+    "username": "persist.1793437830076",
+    "display_name": "Durable User Record",
+    "email": "persist.1793437830076@cit.ac.in",
+    "role": "student",
+    "status": "active",
+    "department": "CSE",
+    "student_group_id": "CSE-3",
+    "auth_tokens": [
+      "token-usr-persist-check-1793437830076-1793437830078"
+    ],
+    "created_at": "2026-10-31T09:10:30.079Z",
+    "updated_at": "2026-10-31T09:10:30.079Z"
+  },
+  "usr-status-change-1793437830082": {
+    "id": "usr-status-change-1793437830082",
+    "username": "status.1793437830082",
+    "display_name": "Status Test User",
+    "email": "status.1793437830082@cit.ac.in",
+    "role": "faculty",
+    "department": "CSE",
+    "faculty_id": "F01",
+    "status": "suspended",
+    "auth_tokens": [
+      "token-usr-status-change-1793437830082"
+    ],
+    "created_at": "2026-10-31T09:10:30.085Z",
+    "updated_at": "2026-10-31T09:10:30.090Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "dataset_id": "cit-public-v1",
+  "schedule_dataset_id": "cit-public-v1",
+  "team": "CIT Arch Team",
+  "soft_penalties": {
+    "S1": 0,
+    "S2": 147,
+    "S3": 12,
+    "S4": 15,
+    "S5": 13,
+    "S6": 0
+  },
+  "soft_total": 187,
+  "stability": {
+    "sessions_moved": 12,
+    "time_changed": 1,
+    "room_only_changed": 11,
+    "moved_ids": [
+      "CE202-L3",
+      "CE301-L2",
+      "CS101-A-L2",
+      "CS203-L2",
+      "CS203-L3",
+      "EE204-L2",
+      "EE303-L1",
+      "HS101-B-L1",
+      "HS101-D-L2",
+      "ME302-L3",
+      "ME303-L3",
+      "PH101-B-L2"
+    ]
+  },
+  "hard_violations": [],
+  "hard_violation_count": 0,
+  "hard_by_rule": {},
+  "warnings": []
+}

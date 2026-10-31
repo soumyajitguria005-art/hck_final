@@ -1,0 +1,42 @@
+# ==============================================================================
+# CIT Campus Scheduling & Venue Management - Solver Microservice
+# Containerized Python 3 Deterministic Scheduling Engine
+# ==============================================================================
+
+FROM python:3.11-slim AS base
+
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PORT=8000
+
+WORKDIR /app
+
+# Install system dependencies including CBC/GLPK coin-or solvers
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    coinor-cbc \
+    coinor-libcbc-dev \
+    gcc \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# Copy solver requirements and install
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy solver core modules and official validator
+COPY solver.py ./
+COPY validator_runner.py ./
+COPY starter_pack/ ./starter_pack/
+
+# Create non-root runner user
+RUN useradd -m -u 1001 solveruser && \
+    chown -R solveruser:solveruser /app
+USER solveruser
+
+EXPOSE 8000
+
+# Healthcheck verifying solver and python runtime
+HEALTHCHECK --interval=30s --timeout=5s --start-period=5s --retries=3 \
+    CMD python3 -c "import pulp; import sys; sys.exit(0)"
+
+CMD ["python3", "solver.py", "--serve", "--port", "8000"]

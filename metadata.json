@@ -1,0 +1,6 @@
+{
+  "name": "CIT Campus Scheduling and Venue Management",
+  "description": "Automated timetable generation, midsem exam scheduling, venue booking allocation, and minimal-disruption rescheduling for Chilika Institute of Technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,28 @@
+{
+  "dataset_id": "cit-public-v1",
+  "schedule_dataset_id": "cit-public-v1",
+  "team": "CIT Arch Team",
+  "soft_penalties": {
+    "S1": 0,
+    "S2": 145,
+    "S3": 12,
+    "S4": 12,
+    "S5": 1,
+    "S6": 0
+  },
+  "soft_total": 170,
+  "bookings": {
+    "booking_score": 63.0,
+    "booking_score_max_if_all_approved": 70,
+    "approved": 20,
+    "alternatives": 3,
+    "rejected": 2,
+    "session_overrides": 0,
+    "priority_inversions": []
+  },
+  "exam_soft_penalty": 0,
+  "hard_violations": [],
+  "hard_violation_count": 0,
+  "hard_by_rule": {},
+  "warnings": []
+}
